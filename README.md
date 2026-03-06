@@ -16,8 +16,8 @@ Outside of code, you'll find me exploring music of every genre, chasing good foo
 | Layer | Tools |
 |---|---|
 | **Language** | Python |
-| **Framework** | FastAPI, Vaadin |
-| **Database** | PostgreSQL, SQLite |
+| **Framework** | FastAPI |
+| **Database** | PostgreSQL, SQLite, MongoDB |
 | **Cache** | Redis |
 | **DevOps** | Docker, CI/CD |
 | **Patterns** | REST, DDD, Clean Architecture |
