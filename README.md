@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there 👋
 
-<!--
-**sophiasussa/sophiasussa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sophia-sussa)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sophiasussa@outlook.com)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Who I am
+
+Autistic Brazilian woman from the countryside, building backends and navigating the world, one clear conversation at a time. 🌿
+I value organization, directness, and honesty — autism shapes how I communicate, and I've learned to see that as a strength. I connect well with friendly, genuine people and care deeply about social causes.
+Outside of code, you'll find me exploring music of every genre, chasing good food, and dreaming about beautiful places. 🎵 🍜 🗺️
+
+---
+
+| Layer | Tools |
+|---|---|
+| **Language** | Python |
+| **Framework** | FastAPI, Vaadin |
+| **Database** | PostgreSQL, SQLite |
+| **Cache** | Redis |
+| **DevOps** | Docker, CI/CD |
+| **Patterns** | REST, DDD, Clean Architecture |
