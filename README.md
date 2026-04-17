@@ -5,6 +5,10 @@
 
 ---
 
+<table>
+<tr>
+<td width="55%">
+
 ## About me
 
 Backend developer from Brazil focused on building reliable and well-structured systems.
@@ -14,7 +18,9 @@ Currently working with Python and FastAPI.
 
 Outside of coding, I enjoy music, food, and exploring new places.
 
----
+</td>
+
+<td width="45%">
 
 ## Tech Stack
 
@@ -26,3 +32,7 @@ Outside of coding, I enjoy music, food, and exploring new places.
 | **Cache** | Redis |
 | **DevOps** | Docker, CI/CD |
 | **Concepts** | REST APIs, DDD, Clean Architecture |
+
+</td>
+</tr>
+</table>
