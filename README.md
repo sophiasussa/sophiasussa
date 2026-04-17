@@ -14,7 +14,9 @@
 Backend developer from Brazil focused on building reliable and well-structured systems.
 
 I value clean architecture, clear code, and practical solutions.  
-Currently working with Python and expanding into Java.
+Currently working with Python and FastAPI.
+
+Outside of coding, I enjoy music, food, and exploring new places.
 
 </td>
 
@@ -25,7 +27,7 @@ Currently working with Python and expanding into Java.
 | Layer | Tools |
 |---|---|
 | **Languages** | Python, Java |
-| **Frameworks** | FastAPI |
+| **Frameworks** | FastAPI, Django |
 | **Databases** | PostgreSQL, SQLite, MongoDB |
 | **Cache** | Redis |
 | **DevOps** | Docker, CI/CD |
