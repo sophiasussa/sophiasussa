@@ -7,27 +7,25 @@
 
 <table>
 <tr>
-<td width="55%">
+<td width="55%" valign="top">
 
 ## About me
 
 Backend developer from Brazil focused on building reliable and well-structured systems.
 
-I value clear communication, organization, and direct problem solving.  
-Currently working with Python and FastAPI.
-
-Outside of coding, I enjoy music, food, and exploring new places.
+I value clean architecture, clear code, and practical solutions.  
+Currently working with Python and expanding into Java.
 
 </td>
 
-<td width="45%">
+<td width="45%" valign="top">
 
 ## Tech Stack
 
 | Layer | Tools |
 |---|---|
 | **Languages** | Python, Java |
-| **Frameworks** | FastAPI, Django |
+| **Frameworks** | FastAPI |
 | **Databases** | PostgreSQL, SQLite, MongoDB |
 | **Cache** | Redis |
 | **DevOps** | Docker, CI/CD |
